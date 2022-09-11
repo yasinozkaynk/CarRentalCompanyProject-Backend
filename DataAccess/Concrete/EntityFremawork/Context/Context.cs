@@ -11,7 +11,7 @@ namespace DataAccess.Concrete.EntityFremawork
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"server = (localdb)\mssqllocaldb; initial catalog =ReCapProject; integrated security = true");
+            optionsBuilder.UseSqlServer(@"server = DESKTOP-8QRHO1L\SQLEXPRESS2017; initial catalog =ReCapProject; integrated security = true");
         }
         public DbSet<Car>Cars { get; set; }
         public DbSet<Brand> Brands { get; set; }

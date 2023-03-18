@@ -18,8 +18,9 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <a href="https://www.instagram.com/yasnozkaynk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yasnozkaynk-black?style=flat-square&logo=instagram"></a>
 </p>                          
    </div>
-   Tech I Use
-<div class="container">
+
+<div class="container"  align="center">
+     ### <p> Tech I Use </p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">

@@ -29,10 +29,8 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <img src="https://silentinstallhq.com/wp-content/uploads/2020/12/NET.png" width="35" height="35">
 </div>
 <br>
-<br>
-
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
-<div class=container>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </div>
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </p>
 

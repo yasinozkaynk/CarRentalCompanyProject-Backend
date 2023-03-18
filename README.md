@@ -8,7 +8,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <font color="pink"> Coffee is how I keep up with code </font> 
 
 <br><br><br><br><br>
-### <p align="center">Reach out to me</a>
+### <p align="center">Reach out to me :</a>
 <div class="container">
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yasinozkaynak&color=green" alt="yasinozkaynak :: Profile Stats"></a>
@@ -18,7 +18,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <a href="https://www.instagram.com/yasnozkaynk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yasnozkaynk-black?style=flat-square&logo=instagram"></a>
 </p>                          
    </div>
-<p align="center"> Tech I Use </p>
+<h2 align="center"> Languages and Tools:</h2>
 <div class="container"  align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="35" height="35">
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="35" height="35">

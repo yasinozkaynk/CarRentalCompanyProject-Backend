@@ -6,7 +6,6 @@ Hi, Welcome To My Github Profile
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
 <br>
 <font color="pink"> Coffee is how I keep up with code </font> 
-<br>
 Tech I Use
 <div class="container">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">

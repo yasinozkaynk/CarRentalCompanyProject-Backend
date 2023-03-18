@@ -25,5 +25,5 @@ Tech I Use
 </div>
 <br>
 <div class=container>
-<img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </div>

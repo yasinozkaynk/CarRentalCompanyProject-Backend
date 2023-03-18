@@ -5,12 +5,17 @@ Hi there , I'm Yasin
 Hi, Welcome To My Github Profile 
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
 
-<font color="pink"> Coffee is how I keep up with code /></font> 
-
-Reach out to me
+<font color="pink"> Coffee is how I keep up with code </font> 
+<br><br><br><br>
+<p align="center">Reach out to me</a>
 <div class="container">
-<img width="22" style="color:white" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" href='https://www.instagram.com/yasnozkaynk/'/>
-<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" href='https://www.linkedin.com/in/yasin-%C3%B6zkaynak-b3a4071b1'/>                             </div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yasinozkaynak&color=green" alt="yasinozkaynak :: Profile Stats"></a>
+<a href="mailto:yasnozkaynk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yasnozkaynk@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/yasin-%C3%B6zkaynak-b3a4071b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yasinozkaynak-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/yasnozkaynk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yasnozkaynk-black?style=flat-square&logo=instagram"></a>
+</p>                          
+   </div>
 <br>
 <br>
 Tech I Use

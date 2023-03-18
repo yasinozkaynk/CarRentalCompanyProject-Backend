@@ -24,7 +24,8 @@ namespace Business.Concrete
 
         public IResult Delete(Brand brand)
         {
-           
+            _brandDal.Delete(brand);
+            return new SuccessResult();aa
         }
 
         public IDataResult<List<Brand>> GetAll()

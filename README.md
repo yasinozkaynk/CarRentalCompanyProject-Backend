@@ -1,16 +1,16 @@
- Hi there , I'm Yasin. blush:
+Hi there , I'm Yasin. blush:
 
 <img src="https://img.freepik.com/premium-vector/hello-lettering-handwritten-vector_546326-23.jpg?w=2000" width="400" height="250" align="right">
 
 
-## Hi, Welcome To My Github Profile 
-## I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
+Hi, Welcome To My Github Profile 
+I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
 
-<font color="pink" > Coffee is how I keep up with code /></font> 
+<font color="pink"> Coffee is how I keep up with code /></font> 
 
 Reach out to me
 <div class="container">
-<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" href='https://www.instagram.com/yasnozkaynk/'/>
+<img width="22" style="color:white" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" href='https://www.instagram.com/yasnozkaynk/'/>
 <img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" href='https://www.linkedin.com/in/yasin-%C3%B6zkaynak-b3a4071b1'/>                             </div>
 <br>
 Tech I Use
@@ -26,4 +26,3 @@ Tech I Use
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact">
-

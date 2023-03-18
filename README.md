@@ -4,6 +4,16 @@ Hi there , I'm Yasin
 
 Hi, Welcome To My Github Profile 
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 
+Tech I Use
+<div class="container">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="25" height="25">
+<img src="https://www.stepsoftware.com/images/services/c-sharp.png" width="25" height="25">
+<img src="https://silentinstallhq.com/wp-content/uploads/2020/12/NET.png" width="25" height="25">
+</div>
 
 <font color="pink"> Coffee is how I keep up with code </font> 
 <br><br><br><br><br><br>
@@ -19,17 +29,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
    </div>
 <br>
 <br>
-Tech I Use
-<div class="container">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="25" height="25">
-<img src="https://www.stepsoftware.com/images/services/c-sharp.png" width="25" height="25">
-<img src="https://silentinstallhq.com/wp-content/uploads/2020/12/NET.png" width="25" height="25">
-</div>
-<br>
+
 <div class=container>
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </div>

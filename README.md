@@ -1,7 +1,7 @@
 Hi there , I'm Yasin
 <img src="https://img.freepik.com/premium-vector/hello-lettering-handwritten-vector_546326-23.jpg?w=2000" width="400" height="250" align="right">
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KiMBUPZUhUg4HRV6PW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-hey-KiMBUPZUhUg4HRV6PW">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/KiMBUPZUhUg4HRV6PW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div><p><a href="https://giphy.com/gifs/hello-hi-hey-KiMBUPZUhUg4HRV6PW">via GIPHY</a></p>
 
 Hi, Welcome To My Github Profile 
 I'm Yasin, I'm working on full stack Web development. I am sharing my projects here. I usually use the backend c# programming language and frontend angular library for Web projects. 

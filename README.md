@@ -1,4 +1,4 @@
-Hi there , I'm Yasin.
+Hi there , I'm Yasin. blush:
 
 <img src="https://img.freepik.com/premium-vector/hello-lettering-handwritten-vector_546326-23.jpg?w=2000" width="400" height="250" align="right">
 
@@ -11,7 +11,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 Reach out to me
 <div class="container">
 <img width="22" style="color:white" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" href='https://www.instagram.com/yasnozkaynk/'/>
-<img width="22" style="color:white" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" href='https://www.linkedin.com/in/yasin-%C3%B6zkaynak-b3a4071b1'/>                             </div>
+<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" href='https://www.linkedin.com/in/yasin-%C3%B6zkaynak-b3a4071b1'/>                             </div>
 <br>
 Tech I Use
 <div class="container">
@@ -24,5 +24,6 @@ Tech I Use
 <img src="https://silentinstallhq.com/wp-content/uploads/2020/12/NET.png" width="25" height="25">
 </div>
 <br>
+<div class=container>
 <img src="https://github-readme-stats.vercel.app/api?username=yasinozkaynk&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozkaynk&layout=compact"> </div>

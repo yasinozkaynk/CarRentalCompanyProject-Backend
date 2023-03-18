@@ -105,6 +105,17 @@ namespace Wep.API.Controllers
             return BadRequest(result);
         }
 
+        [HttpGet("rentdate,returndate,id")]
+        public IActionResult GetByFilterRental(DateTime rentdate,DateTime returndate,int id)
+        {
+            var result = _carService.GetByFilter(rentdate,returndate,id);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
         [HttpGet("getcarsdetails")]
         public IActionResult GetCarsDetails()
         {

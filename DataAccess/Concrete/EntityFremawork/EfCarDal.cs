@@ -46,7 +46,33 @@ namespace DataAccess.Concrete.EntityFremawork
             }
         }
 
-            
-        
+        public List<RentalFilterDto> GetAllFilterCar(Expression<Func<RentalFilterDto, bool>> filter = null)
+        {
+            using (Context context = new Context())
+            {
+                var result = from c in context.Cars
+                             join b in context.Brands
+                             on c.BrandId equals b.BrandId
+                             join r in context.Rentals
+                             on c.CarId equals r.CarId
+                             select new RentalFilterDto
+                             {
+                                 CarId = c.CarId,
+                                 CarName=b.BrandName,
+                                 ImagePath = context.CarsImages.Where(w => w.CarId == c.CarId).FirstOrDefault().ImagePath,
+                                 Capacity = c.Capacity,
+                                 CarModel = c.CarModel,
+                                 Fuel = c.Fuel,
+                                 Gear = c.Gear,
+                                 LuggageCapacity = c.LuggageCapacity,
+                                 RentDate=r.RentDate,
+                                 ReturnDate=r.ReturnDate,
+                                
+                                 
+                             };
+                return filter == null ? result.ToList() : result.Where(filter).ToList();
+
+            }
+        }
     }
 }

@@ -61,6 +61,7 @@ namespace Business.Concrete
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(p => p.DailyPrice >= min && p.DailyPrice <= max));
         }
+
         [CacheAspect]
         public IDataResult<List<Car>> DateQuery()
         {
@@ -93,7 +94,10 @@ namespace Business.Concrete
             return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetAllCar(x=>x.colorId==colorId));
 
         }
-      
-       
+
+        public IDataResult<List<RentalFilterDto>> GetByFilter(DateTime rentdate, DateTime returndate, int id)
+        {
+            return new SuccessDataResult<List<RentalFilterDto>> (_carDal.GetAllFilterCar(r=>r.RentDate==rentdate && r.ReturnDate==returndate ));
+        }
     }
 }

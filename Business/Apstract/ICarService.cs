@@ -14,6 +14,7 @@ namespace Business.Apstract
         IResult Update(Car car);
         IResult Delete(Car car);
         IDataResult<List<CarDetailDto>> GetAll();
+        IDataResult<List<RentalFilterDto>> GetByFilter(DateTime rentdate ,DateTime returndate,int id);
         IDataResult<List<Car>> GetByDailyPrice(decimal min,decimal max);
         IDataResult<List<CarDetailDto>> GetById(int id);
         IDataResult<List<CarDetailDto>> GetByBrand(int brandId);

@@ -13,6 +13,7 @@ I'm Yasin, I'm working on full stack Web development. I am sharing my projects h
 <img src="https://komarev.com/ghpvc/?username=yasinozkaynak&color=green" alt="yasinozkaynak :: Profile Stats"></a>
 <a href="mailto:yasnozkaynk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yasnozkaynk@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/yasin-%C3%B6zkaynak-b3a4071b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@yasinozkaynak-blue?style=flat&logo=linkedin"></a>
+<br>
 <a href="https://www.instagram.com/yasnozkaynk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yasnozkaynk-black?style=flat-square&logo=instagram"></a>
 </p>                          
    </div>
